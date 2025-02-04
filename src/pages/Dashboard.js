@@ -115,7 +115,7 @@ const Dashboard = () => {
       <br />
       <br />
       <div className="main-content">
-        <h2>Corporate Data Base</h2>
+        <h2>Customer Data Base</h2>
 
         {/* Add Data Form */}
         <div className="data-form">
